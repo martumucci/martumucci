@@ -23,7 +23,10 @@ I came to backend through software engineering, but my formal studies are in mat
 
 ### Currently
 
-- Building **SecureDocs**, a distributed evidence vault: submit a document, get back a cryptographic proof anyone can verify independently. Multi-repo portfolio project exploring polyglot service design (.NET orchestrator + Python crypto worker). API service [here](https://github.com/martumucci/securedocs-api); companion repos publishing soon.
+- Building **SecureDocs**, a distributed evidence vault: submit a document, get back a cryptographic proof anyone can verify independently. Multi-repo polyglot system spanning a .NET orchestrator API, a Python crypto worker, and end-to-end deployment:
+  - [securedocs-api](https://github.com/martumucci/securedocs-api) — .NET 8 orchestrator (Clean Architecture, CQRS)
+  - [securedocs-crypto-worker](https://github.com/martumucci/securedocs-crypto-worker) — Python crypto worker (FastAPI, AES-GCM, Ed25519)
+  - [securedocs-deploy](https://github.com/martumucci/securedocs-deploy) — end-to-end orchestration and smoke tests
 - Studying for a **Licentiate in Mathematics** at UAI (Universidad Abierta Interamericana).
 - Working through Stanford's **Cryptography I** course.
 
