@@ -6,12 +6,13 @@ Backend engineer. Mostly interested in distributed systems, mathematics, and app
 
 ### What I work with
 
-- **Backend:** .NET 8, C#, ASP.NET Core, Entity Framework Core
+- **Backend:** .NET (C#, ASP.NET Core, Entity Framework Core), Python (FastAPI)
 - **Distributed systems:** event-driven architectures, message brokers (RabbitMQ, Azure Service Bus), outbox/inbox patterns
 - **Architecture:** Clean Architecture, DDD, CQRS, microservices
 - **Cloud:** Azure (Functions, Service Bus, Cosmos DB, DevOps)
 - **Data:** PostgreSQL, SQL Server, Redis
-- **Also fluent in:** Python (FastAPI), TypeScript, Docker, CI/CD
+- **DevOps & Tooling:** Docker, CI/CD, GitHub Actions
+- **Also comfortable with:** TypeScript
 
 ---
 
