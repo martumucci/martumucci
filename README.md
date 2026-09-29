@@ -29,7 +29,6 @@ I came to backend through software engineering, but my formal studies are in mat
   - [securedocs-crypto-worker](https://github.com/martumucci/securedocs-crypto-worker) — Python crypto worker (FastAPI, AES-GCM, Ed25519)
   - [securedocs-deploy](https://github.com/martumucci/securedocs-deploy) — end-to-end orchestration and smoke tests
 - Studying for a **Licentiate in Mathematics** at UAI (Universidad Abierta Interamericana).
-- Working through Stanford's **Cryptography I** course.
 
 ---
 
