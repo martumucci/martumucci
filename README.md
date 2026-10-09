@@ -1,38 +1,31 @@
-## Martina Mucci
+# Martina Mucci
 
-Backend engineer. Mostly interested in distributed systems, mathematics, and applied cryptography, and the places where they overlap.
+Backend engineer working primarily with .NET and Python, focused on backend development and distributed systems.
 
----
+## Technologies
 
-### What I work with
-
-- **Backend:** .NET (C#, ASP.NET Core, Entity Framework Core), Python (FastAPI)
-- **Distributed systems:** event-driven architectures, message brokers (RabbitMQ, Azure Service Bus), outbox/inbox patterns
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, Python, FastAPI
+- **Distributed systems:** Event-driven architectures, RabbitMQ, Azure Service Bus, outbox/inbox patterns
 - **Architecture:** Clean Architecture, DDD, CQRS, microservices
-- **Cloud:** Azure (Functions, Service Bus, Cosmos DB, DevOps)
-- **Data:** PostgreSQL, SQL Server, Redis
-- **DevOps & Tooling:** Docker, CI/CD, GitHub Actions
-- **Also comfortable with:** TypeScript
+- **Cloud:** Azure Functions, Service Bus, Cosmos DB, Azure DevOps
+- **Databases:** PostgreSQL, SQL Server, Redis
+- **Tools:** Docker, GitHub Actions, CI/CD
+- **Other:** TypeScript
 
----
+## Projects
 
-### About the math angle
+**SecureDocs** — Distributed document evidence system built with .NET and Python.
 
-I came to backend through software engineering, but my formal studies are in mathematics, which shapes how I think about structure, correctness, and complexity in the systems I build. Long-term I'm interested in the intersection of backend engineering and applied cryptography.
+- [securedocs-api](https://github.com/martumucci/securedocs-api) — .NET 8 API using Clean Architecture and CQRS
+- [securedocs-crypto-worker](https://github.com/martumucci/securedocs-crypto-worker) — Python/FastAPI worker using AES-GCM and Ed25519
+- [securedocs-deploy](https://github.com/martumucci/securedocs-deploy) — Deployment orchestration and end-to-end smoke tests
 
----
+## Currently
 
-### Currently
+- Studying Mathematics at Universidad Abierta Interamericana (UAI).
+- Working on [ml-by-hand](https://github.com/martumucci/ml-by-hand) — a collection of mathematical derivations and from-scratch implementations of machine learning algorithms using Python and NumPy — Work in progress.
 
-- Building **SecureDocs**, a distributed evidence vault: submit a document, get back a cryptographic proof anyone can verify independently. Multi-repo polyglot system spanning a .NET orchestrator API, a Python crypto worker, and end-to-end deployment:
-  - [securedocs-api](https://github.com/martumucci/securedocs-api) — .NET 8 orchestrator (Clean Architecture, CQRS)
-  - [securedocs-crypto-worker](https://github.com/martumucci/securedocs-crypto-worker) — Python crypto worker (FastAPI, AES-GCM, Ed25519)
-  - [securedocs-deploy](https://github.com/martumucci/securedocs-deploy) — end-to-end orchestration and smoke tests
-- Studying for a **Licentiate in Mathematics** at UAI (Universidad Abierta Interamericana).
-
----
-
-### Elsewhere
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/martinamucci/)
-- Email: martina22.12@hotmail.com
+- martina22.12@hotmail.com
